@@ -16,7 +16,7 @@ It helps users create strong, secure passwords and copy them easily.
 
 1. Enter the desired password length.
 2. Select the character types.
-3.Click Generate.
+3. Click Generate.
 4. View the password and strength.
 5. Click Copy to save it to clipboard.
 
@@ -34,9 +34,9 @@ python passgen.py
 
 
 ## 🛠️ Built With:
-Python
-Tkinter
-Secrets Module
+-Python
+-Tkinter
+-Secrets Module
 
 ## 👤 Author
 Shreya Acharya
